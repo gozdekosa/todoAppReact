@@ -1,6 +1,6 @@
 # React + Vite
 
-[👉 Bu linke tıklayarak uygulamanın canlı demosunu görebilirsiniz.](https://gozdekosa.github.io/todoAppReact/)
+<a href="https://gozdekosa.github.io/todoAppReact/" target="_blank">👉 Bu linke tıklayarak uygulamanın canlı demosunu görebilirsiniz.</a>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
